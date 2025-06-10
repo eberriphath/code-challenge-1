@@ -11,6 +11,6 @@ function calculateBodaFare(distanceInKm){
   console.log("kalia Pikipiki Twende mwahahahaha!!!(evil laughter for those wondering what's going on)");
 }
 
-//calling the function
+//user input prompt
 const userInput = prompt("Unafika wapi Mkubwa? kilometer ngapi?");
 calculateBodaFare(Number(userInput));
